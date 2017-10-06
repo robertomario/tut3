@@ -40,5 +40,6 @@ void loop() {
     default:
       break;
   }
+  initial=' ';
   delay(10);
 }
